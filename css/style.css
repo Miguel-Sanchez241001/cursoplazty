@@ -38,3 +38,9 @@ font-size: 20px;
 
 }
 
+#footer{
+background:darkgray ;
+color : black;
+text-align: center;
+padding:0.5em;
+}
