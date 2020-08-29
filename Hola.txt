@@ -1,2 +1,7 @@
 Hola git esto se va para la principal
 estoy colaborando con el proyecto de miguel autonoma soy miguel gmail
+
+Comenzando la clase de Rebase agrengando cambios de una rama al master 
+de forma local de forma remota Segun Freddy es una muy mala practica
+
+Master 1
