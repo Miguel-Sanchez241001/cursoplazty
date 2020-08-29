@@ -4,7 +4,8 @@ estoy colaborando con el proyecto de miguel autonoma soy miguel gmail
 Comenzando la clase de Rebase agrengando cambios de una rama al master 
 de forma local de forma remota Segun Freddy es una muy mala practica
 
+Experimento 1
+
+Experimento 2
 
 Master 1
-
-Master 2
